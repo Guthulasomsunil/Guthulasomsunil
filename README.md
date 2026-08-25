@@ -1,16 +1,20 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:020617,20:0F172A,45:312E81,70:7C3AED,100:06B6D4&text=SUNIL%20GUTHULA&fontSize=62&fontColor=FFFFFF&fontAlignY=36&desc=DATA%20SCIENCE%20%E2%80%A2%20PYTHON%20%E2%80%A2%20MACHINE%20LEARNING&descSize=19&descAlignY=62&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:020617,15:0F172A,35:1E1B4B,55:4C1D95,75:7C3AED,100:06B6D4&text=SUNIL%20GUTHULA&fontSize=62&fontColor=FFFFFF&fontAlignY=36&desc=DATA%20SCIENCE%20%E2%80%A2%20PYTHON%20%E2%80%A2%20MACHINE%20LEARNING%20%E2%80%A2%20DJANGO&descSize=18&descAlignY=62&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=1800&pause=500&color=22D3EE&center=true&vCenter=true&width=950&lines=Hello%2C+I'm+Sunil+Guthula+%F0%9F%91%8B;Aspiring+Data+Scientist+%F0%9F%93%8A;Python+Developer+%F0%9F%90%8D;Machine+Learning+Enthusiast+%F0%9F%A4%96;Data+Analytics+Explorer+%F0%9F%94%8E;Turning+Data+Into+Intelligence+%E2%9A%A1;Building+Real-World+Solutions+%F0%9F%9A%80;Always+Learning.+Always+Building.+%E2%9C%A8"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=1700&pause=450&color=22D3EE&center=true&vCenter=true&width=1000&lines=Hello%2C+I'm+Sunil+Guthula+%F0%9F%91%8B;Aspiring+Data+Scientist+%F0%9F%93%8A;Python+Developer+%F0%9F%90%8D;Django+Developer+%F0%9F%9F%A2;Machine+Learning+Enthusiast+%F0%9F%A4%96;Data+Analytics+Explorer+%F0%9F%94%8E;Full-Stack+Technology+Explorer+%F0%9F%92%BB;Turning+Data+Into+Intelligence+%E2%9A%A1;Building+Real-World+Projects+%F0%9F%9A%80;Always+Learning.+Always+Building.+%E2%9C%A8"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3000&pause=900&color=F472B6&center=true&vCenter=true&width=800&lines=DATA+%C3%97+CODE+%C3%97+INTELLIGENCE;LEARN+%E2%80%A2+BUILD+%E2%80%A2+ANALYZE+%E2%80%A2+IMPROVE"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2200&pause=600&color=F472B6&center=true&vCenter=true&width=900&lines=DATA+%C3%97+CODE+%C3%97+INTELLIGENCE;LEARN+%E2%80%A2+BUILD+%E2%80%A2+ANALYZE+%E2%80%A2+IMPROVE;PYTHON+%E2%80%A2+JAVA+%E2%80%A2+C%2B%2B+%E2%80%A2+JAVASCRIPT;DJANGO+%E2%80%A2+SQL+%E2%80%A2+MONGODB;DATA+SCIENCE+%E2%80%A2+MACHINE+LEARNING"/>
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=python,mysql,mongodb,git,github,vscode,jupyter&perline=7"/>
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript,html,css,django&perline=8"/>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,scala,git,github,vscode,jupyter&perline=7"/>
 
 <br><br>
 
@@ -36,11 +40,11 @@
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212750436-5b7e1a5c-6c47-4e0d-8c4c-0d7f2b8e5c43.gif" width="90"/>
+<img src="https://user-images.githubusercontent.com/74038190/212750436-5b7e1a5c-6c47-4e0d-8c4c-0d7f2b8e5c43.gif" width="100"/>
 
 # ✦ ABOUT ME ✦
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2200&pause=600&color=818CF8&center=true&vCenter=true&width=700&lines=DATA+%C3%97+CODE+%C3%97+INTELLIGENCE;Turning+Questions+Into+Data+Insights;Turning+Data+Into+Practical+Solutions"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=1800&pause=500&color=818CF8&center=true&vCenter=true&width=850&lines=DATA+%C3%97+CODE+%C3%97+INTELLIGENCE;CURIOUS+MIND+%E2%80%A2+CREATIVE+BUILDER;TURNING+PROBLEMS+INTO+PROJECTS;TURNING+DATA+INTO+INSIGHTS"/>
 
 </div>
 
@@ -51,13 +55,19 @@
 
 ## 👋 Hello, I'm Sunil Guthula
 
-I'm an **Aspiring Data Scientist** passionate about **Python, Data Analytics, Machine Learning, SQL, and MongoDB**.
+I'm an **Aspiring Data Scientist** passionate about **Data Science, Python, Machine Learning, Django, Programming, Databases, and Software Development**.
 
-I enjoy transforming raw data into meaningful insights, discovering patterns, creating visualizations, and developing practical solutions for real-world problems.
+I enjoy working with data, finding patterns, creating visualizations, building predictive models, and developing practical projects.
 
 ### ⚡ What I Do
 
 - 🐍 Python Programming
+- ☕ Java Programming
+- ⚙️ C & C++
+- 🌐 HTML & CSS
+- 💛 JavaScript
+- 🟢 Django Web Development
+- 🧮 Scala
 - 📊 Data Analysis
 - 🔎 Exploratory Data Analysis
 - 📈 Data Visualization
@@ -68,7 +78,7 @@ I enjoy transforming raw data into meaningful insights, discovering patterns, cr
 
 ### 💡 My Philosophy
 
-> **Learn → Analyze → Build → Improve → Repeat**
+> **Learn → Build → Analyze → Improve → Repeat**
 
 </td>
 
@@ -78,8 +88,13 @@ I enjoy transforming raw data into meaningful insights, discovering patterns, cr
 
 <br><br>
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1800&pause=500&color=22D3EE&center=true&vCenter=true&width=300&lines=CODE;DATA;MACHINE+LEARNING;DJANGO;BUILD;REPEAT"/>
+
+<br>
+
 <img src="https://img.shields.io/badge/DATA%20SCIENCE-7C3AED?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/PYTHON-06B6D4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DJANGO-10B981?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/MACHINE%20LEARNING-F472B6?style=for-the-badge"/>
 
 </td>
@@ -91,19 +106,33 @@ I enjoy transforming raw data into meaningful insights, discovering patterns, cr
 
 <div align="center">
 
-# ✦ TECH STACK ✦
+# ✦ PROGRAMMING LANGUAGES ✦
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=700&color=22D3EE&center=true&vCenter=true&width=700&lines=Technologies+I+Use;Tools+For+Building+Data+Solutions;Always+Expanding+My+Toolkit"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=1500&pause=400&color=22D3EE&center=true&vCenter=true&width=900&lines=PYTHON+%F0%9F%90%8D;JAVA+%E2%98%95;C+%E2%9A%99%EF%B8%8F;C%2B%2B+%F0%9F%92%BB;JAVASCRIPT+%F0%9F%8C%90;HTML+%F0%9F%8C%8E;CSS+%F0%9F%8E%A8;DJANGO+%F0%9F%9F%A2;SCALA+%E2%9A%A1"/>
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=python,mysql,mongodb,git,github,vscode,jupyter&perline=7"/>
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript,html,css,django&perline=8"/>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=scala&perline=1"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# ✦ DATA SCIENCE STACK ✦
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=1700&pause=450&color=F472B6&center=true&vCenter=true&width=850&lines=NUMPY+%E2%80%A2+PANDAS+%E2%80%A2+MATPLOTLIB;SEABORN+%E2%80%A2+SCIKIT-LEARN;DATA+ANALYSIS+%E2%80%A2+EDA+%E2%80%A2+MACHINE+LEARNING"/>
 
 <br><br>
 
 <img src="https://img.shields.io/badge/NumPy-020617?style=for-the-badge&logo=numpy&logoColor=22D3EE"/>
 <img src="https://img.shields.io/badge/Pandas-020617?style=for-the-badge&logo=pandas&logoColor=818CF8"/>
-<img src="https://img.shields.io/badge/Matplotlib-020617?style=for-the-badge&logo=plotly&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/Matplotlib-020617?style=for-the-badge&logo=matplotlib&logoColor=38BDF8"/>
 <img src="https://img.shields.io/badge/Seaborn-020617?style=for-the-badge&logoColor=F472B6"/>
 <img src="https://img.shields.io/badge/Scikit--Learn-020617?style=for-the-badge&logo=scikit-learn&logoColor=F59E0B"/>
 
@@ -111,7 +140,43 @@ I enjoy transforming raw data into meaningful insights, discovering patterns, cr
 
 ---
 
-# ✦ SKILL MATRIX ✦
+<div align="center">
+
+# ✦ DJANGO DEVELOPMENT ✦
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=1400&pause=350&color=10B981&center=true&vCenter=true&width=900&lines=PYTHON+%F0%9F%90%8D+%2B+DJANGO+%F0%9F%9F%A2;BUILDING+WEB+APPLICATIONS;CREATING+BACKEND+LOGIC;WORKING+WITH+DATABASES;BUILDING+APIs;CREATING+DYNAMIC+WEB+APPLICATIONS+%F0%9F%9A%80"/>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=python,django,html,css,javascript,mysql,mongodb&perline=7"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Django-Backend-020617?style=for-the-badge&logo=django&logoColor=10B981"/>
+<img src="https://img.shields.io/badge/Django%20ORM-Database-020617?style=for-the-badge&logo=django&logoColor=22D3EE"/>
+<img src="https://img.shields.io/badge/REST%20API-Development-020617?style=for-the-badge&logoColor=F472B6"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# ✦ DATABASES & DEVELOPMENT ✦
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode,jupyter&perline=6"/>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=1800&pause=500&color=22D3EE&center=true&vCenter=true&width=850&lines=SQL+%E2%80%A2+MONGODB;GIT+%E2%80%A2+GITHUB;VS+CODE+%E2%80%A2+JUPYTER;DATABASES+%E2%80%A2+VERSION+CONTROL+%E2%80%A2+DEVELOPMENT"/>
+
+</div>
+
+---
+
+# ✦ COMPLETE SKILL MATRIX ✦
 
 <table>
 
@@ -119,9 +184,7 @@ I enjoy transforming raw data into meaningful insights, discovering patterns, cr
 
 <td align="center" width="25%">
 
-### 🐍
-
-## PYTHON
+### 🐍 PYTHON
 
 `Python`
 
@@ -137,27 +200,71 @@ I enjoy transforming raw data into meaningful insights, discovering patterns, cr
 
 <td align="center" width="25%">
 
-### 📊
+### ☕ JAVA
 
-## DATA
+`Core Java`
 
-`Pandas`
+`OOP`
 
-`NumPy`
+`Programming`
 
-`EDA`
-
-`Data Cleaning`
-
-`Statistics`
+`Problem Solving`
 
 </td>
 
 <td align="center" width="25%">
 
-### 🤖
+### ⚙️ C / C++
 
-## MACHINE LEARNING
+`C`
+
+`C++`
+
+`Logic`
+
+`Algorithms`
+
+`DSA`
+
+</td>
+
+<td align="center" width="25%">
+
+### 🌐 WEB
+
+`HTML`
+
+`CSS`
+
+`JavaScript`
+
+`Django`
+
+`Web Development`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+### 📊 DATA
+
+`NumPy`
+
+`Pandas`
+
+`EDA`
+
+`Statistics`
+
+</td>
+
+<td align="center">
+
+### 🤖 MACHINE LEARNING
 
 `Scikit-Learn`
 
@@ -167,15 +274,13 @@ I enjoy transforming raw data into meaningful insights, discovering patterns, cr
 
 `Clustering`
 
-`Evaluation`
-
 </td>
 
-<td align="center" width="25%">
+<td align="center">
 
-### 🗄️
+### 🗄️ DATABASE
 
-## DATABASE
+`SQL`
 
 `MySQL`
 
@@ -183,7 +288,21 @@ I enjoy transforming raw data into meaningful insights, discovering patterns, cr
 
 `Queries`
 
-`Data Modeling`
+</td>
+
+<td align="center">
+
+### ⚡ TOOLS
+
+`Scala`
+
+`Git`
+
+`GitHub`
+
+`Jupyter`
+
+`VS Code`
 
 </td>
 
@@ -197,11 +316,11 @@ I enjoy transforming raw data into meaningful insights, discovering patterns, cr
 
 # ✦ DATA SCIENCE IN MOTION ✦
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=1600&pause=400&color=22D3EE&center=true&vCenter=true&width=850&lines=COLLECTING+DATA+%F0%9F%93%A5;CLEANING+DATA+%F0%9F%A7%B9;EXPLORING+PATTERNS+%F0%9F%94%8E;CREATING+VISUALIZATIONS+%F0%9F%93%88;ENGINEERING+FEATURES+%E2%9A%99%EF%B8%8F;TRAINING+MODELS+%F0%9F%A4%96;EVALUATING+RESULTS+%F0%9F%8E%AF;CREATING+IMPACT+%F0%9F%9A%80"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=1400&pause=350&color=22D3EE&center=true&vCenter=true&width=900&lines=COLLECTING+DATA+%F0%9F%93%A5;CLEANING+DATA+%F0%9F%A7%B9;EXPLORING+PATTERNS+%F0%9F%94%8E;VISUALIZING+DATA+%F0%9F%93%88;ENGINEERING+FEATURES+%E2%9A%99%EF%B8%8F;TRAINING+MODELS+%F0%9F%A4%96;EVALUATING+RESULTS+%F0%9F%8E%AF;CREATING+IMPACT+%F0%9F%9A%80"/>
 
 <br><br>
 
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="420"/>
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="450"/>
 
 <br><br>
 
@@ -217,7 +336,7 @@ I enjoy transforming raw data into meaningful insights, discovering patterns, cr
 
 # ✦ PROJECT SHOWCASE ✦
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=1800&pause=600&color=F472B6&center=true&vCenter=true&width=750&lines=BUILDING+REAL-WORLD+PROJECTS;FROM+RAW+DATA+TO+REAL+INSIGHTS;FROM+IDEAS+TO+WORKING+SOLUTIONS"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=1600&pause=500&color=F472B6&center=true&vCenter=true&width=850&lines=BUILDING+REAL-WORLD+PROJECTS;FROM+RAW+DATA+TO+REAL+INSIGHTS;FROM+IDEAS+TO+WORKING+SOLUTIONS;EVERY+PROJECT+IS+A+NEW+LESSON"/>
 
 </div>
 
@@ -289,11 +408,70 @@ Building models to solve real-world prediction problems.
 
 <td width="50%">
 
+## 🟢 DJANGO PROJECTS
+
+### Web Applications
+
+Building dynamic and data-driven web applications.
+
+**Technologies**
+
+`Python` `Django` `HTML` `CSS`
+
+`JavaScript` `SQL` `MongoDB`
+
+**Focus**
+
+- Django Fundamentals
+- URL Routing
+- Views & Templates
+- Models & ORM
+- Forms
+- Authentication
+- REST APIs
+- Database Integration
+
+**Status:** 🟡 Learning & Building
+
+</td>
+
+<td width="50%">
+
+## 🌐 WEB DEVELOPMENT
+
+### Frontend Foundations
+
+Creating responsive and interactive web applications.
+
+**Technologies**
+
+`HTML` `CSS` `JavaScript`
+
+`Django`
+
+**Focus**
+
+- Web Structure
+- Styling
+- Responsive Design
+- Interactivity
+- Backend Integration
+
+**Status:** 🟡 Learning
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
 ## 🐍 PYTHON PROJECTS
 
 ### Programming & Automation
 
-Building Python projects to improve programming and problem-solving skills.
+Building Python projects to strengthen programming skills.
 
 **Focus**
 
@@ -310,7 +488,34 @@ Building Python projects to improve programming and problem-solving skills.
 
 <td width="50%">
 
-## 🧠 FUTURE PROJECTS
+## 💻 PROGRAMMING PROJECTS
+
+### Multi-Language Development
+
+Practicing programming concepts across multiple languages.
+
+**Languages**
+
+`C` `C++` `Java` `Scala`
+
+**Focus**
+
+- Logic Building
+- Algorithms
+- OOP
+- Problem Solving
+
+**Status:** 🟢 Learning
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+## 🧠 FUTURE AI PROJECTS
 
 ### Advanced Data Science
 
@@ -329,6 +534,30 @@ Exploring advanced technologies.
 
 </td>
 
+<td width="50%">
+
+## 🗄️ DATABASE PROJECTS
+
+### Data Management
+
+Working with structured and NoSQL databases.
+
+**Technologies**
+
+`MySQL` `SQL` `MongoDB`
+
+**Focus**
+
+- CRUD Operations
+- Queries
+- Indexing
+- Data Modeling
+- Database Integration
+
+**Status:** 🟡 Building
+
+</td>
+
 </tr>
 
 </table>
@@ -339,73 +568,9 @@ Exploring advanced technologies.
 
 # ✦ CURRENTLY LEARNING ✦
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1800&pause=500&color=22D3EE&center=true&vCenter=true&width=850&lines=PYTHON+%F0%9F%90%8D;SQL+%F0%9F%97%84%EF%B8%8F;DATA+ANALYSIS+%F0%9F%93%8A;STATISTICS+%F0%9F%A7%A0;MACHINE+LEARNING+%F0%9F%A4%96;DATA+VISUALIZATION+%F0%9F%93%88"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=1500&pause=400&color=22D3EE&center=true&vCenter=true&width=900&lines=PYTHON+%F0%9F%90%8D;JAVA+%E2%98%95;C+%E2%9A%99%EF%B8%8F;C%2B%2B+%F0%9F%92%BB;JAVASCRIPT+%F0%9F%8C%90;DJANGO+%F0%9F%9F%A2;SQL+%F0%9F%97%84%EF%B8%8F;DATA+SCIENCE+%F0%9F%93%8A;MACHINE+LEARNING+%F0%9F%A4%96;SCALA+%E2%9A%A1"/>
 
 </div>
-
-<table>
-
-<tr>
-
-<td align="center">
-
-### 🐍 PYTHON
-
-Advanced Python
-
-OOP
-
-Data Structures
-
-Algorithms
-
-</td>
-
-<td align="center">
-
-### 📊 DATA SCIENCE
-
-NumPy
-
-Pandas
-
-EDA
-
-Statistics
-
-</td>
-
-<td align="center">
-
-### 🤖 ML
-
-Regression
-
-Classification
-
-Clustering
-
-Evaluation
-
-</td>
-
-<td align="center">
-
-### 🗄️ DATABASE
-
-SQL
-
-MongoDB
-
-Queries
-
-Data Modeling
-
-</td>
-
-</tr>
-
-</table>
 
 ---
 
@@ -413,11 +578,11 @@ Data Modeling
 
 # ✦ LEARNING JOURNEY ✦
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=1500&pause=400&color=818CF8&center=true&vCenter=true&width=900&lines=PYTHON+%E2%86%92+SQL+%E2%86%92+DATA+ANALYSIS;DATA+ANALYSIS+%E2%86%92+STATISTICS;STATISTICS+%E2%86%92+MACHINE+LEARNING;MACHINE+LEARNING+%E2%86%92+REAL-WORLD+PROJECTS;PROJECTS+%E2%86%92+DATA+SCIENCE"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=1400&pause=400&color=818CF8&center=true&vCenter=true&width=950&lines=PYTHON+%E2%86%92+SQL+%E2%86%92+DATA+ANALYSIS;DATA+ANALYSIS+%E2%86%92+STATISTICS;STATISTICS+%E2%86%92+MACHINE+LEARNING;PYTHON+%E2%86%92+DJANGO+%E2%86%92+WEB+APPLICATIONS;MACHINE+LEARNING+%E2%86%92+REAL-WORLD+PROJECTS;PROJECTS+%E2%86%92+PORTFOLIO;PORTFOLIO+%E2%86%92+DATA+SCIENTIST"/>
 
 <br><br>
 
-<img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="450"/>
+<img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="430"/>
 
 </div>
 
@@ -445,7 +610,7 @@ Data Modeling
 
 # ✦ CONTRIBUTION ACTIVITY ✦
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2000&pause=500&color=22D3EE&center=true&vCenter=true&width=750&lines=CODE+TODAY;LEARN+TODAY;BUILD+TODAY;IMPROVE+EVERY+DAY"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=1500&pause=400&color=22D3EE&center=true&vCenter=true&width=800&lines=CODE+TODAY;LEARN+TODAY;BUILD+TODAY;IMPROVE+EVERY+DAY;CONSISTENCY+CREATES+PROGRESS"/>
 
 <br>
 
@@ -459,7 +624,7 @@ Data Modeling
 
 # ✦ 2026 MISSION ✦
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=1700&pause=500&color=F472B6&center=true&vCenter=true&width=850&lines=MASTER+PYTHON+%F0%9F%90%8D;MASTER+DATA+ANALYSIS+%F0%9F%93%8A;MASTER+MACHINE+LEARNING+%F0%9F%A4%96;BUILD+REAL-WORLD+PROJECTS+%F0%9F%9A%80;GROW+AS+A+DATA+SCIENTIST+%F0%9F%A7%A0"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=1500&pause=400&color=F472B6&center=true&vCenter=true&width=900&lines=MASTER+PROGRAMMING+%F0%9F%92%BB;MASTER+PYTHON+%F0%9F%90%8D;MASTER+DJANGO+%F0%9F%9F%A2;MASTER+DATA+ANALYSIS+%F0%9F%93%8A;MASTER+MACHINE+LEARNING+%F0%9F%A4%96;BUILD+REAL-WORLD+PROJECTS+%F0%9F%9A%80;CREATE+A+STRONG+PORTFOLIO+%F0%9F%92%8E;GROW+AS+A+DATA+SCIENTIST+%F0%9F%A7%A0"/>
 
 </div>
 
@@ -471,13 +636,36 @@ Data Modeling
 
 ### 🐍
 
-**MASTER PYTHON**
+**PYTHON**
 
-Advanced Programming
-
-OOP
-
+Master Python  
+OOP  
 Problem Solving
+
+</td>
+
+<td align="center">
+
+### 💻
+
+**PROGRAMMING**
+
+Java  
+C  
+C++  
+JavaScript
+
+</td>
+
+<td align="center">
+
+### 🟢
+
+**DJANGO**
+
+Backend  
+Web Apps  
+APIs
 
 </td>
 
@@ -485,43 +673,12 @@ Problem Solving
 
 ### 📊
 
-**MASTER DATA**
+**DATA + ML**
 
-Pandas
-
-NumPy
-
-EDA
-
-Statistics
-
-</td>
-
-<td align="center">
-
-### 🤖
-
-**MASTER ML**
-
-Regression
-
-Classification
-
-Evaluation
-
-</td>
-
-<td align="center">
-
-### 🚀
-
-**BUILD**
-
-Real-World Projects
-
-Portfolio
-
-Open Source
+Pandas  
+NumPy  
+EDA  
+Machine Learning
 
 </td>
 
@@ -535,11 +692,11 @@ Open Source
 
 # ✦ MY VISION ✦
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&duration=1600&pause=400&color=22D3EE&center=true&vCenter=true&width=850&lines=CURIOSITY+%E2%9C%A8;DATA+%F0%9F%93%8A;KNOWLEDGE+%F0%9F%A7%A0;INTELLIGENCE+%F0%9F%A4%96;IMPACT+%F0%9F%9A%80"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=1300&pause=350&color=22D3EE&center=true&vCenter=true&width=850&lines=CURIOSITY+%E2%9C%A8;DATA+%F0%9F%93%8A;KNOWLEDGE+%F0%9F%A7%A0;INTELLIGENCE+%F0%9F%A4%96;INNOVATION+%E2%9A%A1;IMPACT+%F0%9F%9A%80"/>
 
 <br><br>
 
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="430"/>
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="450"/>
 
 <br><br>
 
@@ -585,15 +742,15 @@ Regression
 
 <td align="center" width="25%">
 
-### 🧠
+### 🟢
 
-**ARTIFICIAL INTELLIGENCE**
+**DJANGO**
 
-Intelligent applications
+Web Applications
 
-NLP
+REST APIs
 
-Computer Vision
+Database Systems
 
 </td>
 
@@ -605,9 +762,9 @@ Computer Vision
 
 Data → Model
 
-Model → Deployment
+Model → Application
 
-Deployment → Impact
+Application → Impact
 
 </td>
 
@@ -641,7 +798,7 @@ Deployment → Impact
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2200&pause=600&color=22D3EE&center=true&vCenter=true&width=700&lines=Open+to+Learning;Open+to+Collaboration;Open+to+Data+Science+Opportunities"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1800&pause=500&color=22D3EE&center=true&vCenter=true&width=800&lines=Open+to+Learning;Open+to+Collaboration;Open+to+Data+Science+Opportunities;Let's+Build+Something+Amazing+Together!+%F0%9F%9A%80"/>
 
 </div>
 
@@ -649,14 +806,14 @@ Deployment → Impact
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=1800&pause=500&color=22D3EE&center=true&vCenter=true&width=850&lines=DATA+%E2%80%A2+CODE+%E2%80%A2+INTELLIGENCE;LEARN+%E2%80%A2+BUILD+%E2%80%A2+ANALYZE+%E2%80%A2+INNOVATE"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&duration=1500&pause=400&color=22D3EE&center=true&vCenter=true&width=900&lines=DATA+%E2%80%A2+CODE+%E2%80%A2+INTELLIGENCE;LEARN+%E2%80%A2+BUILD+%E2%80%A2+ANALYZE+%E2%80%A2+INNOVATE"/>
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2500&pause=700&color=F472B6&center=true&vCenter=true&width=700&lines=Thanks+for+visiting+my+profile!+%E2%AD%90;Let's+build+something+amazing+together!+%F0%9F%9A%80"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2200&pause=700&color=F472B6&center=true&vCenter=true&width=750&lines=Thanks+for+visiting+my+profile!+%E2%AD%90;Keep+Learning+%F0%9F%93%9A;Keep+Building+%F0%9F%9A%80;Keep+Growing+%F0%9F%94%A5"/>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:00D9FF,30:7C3AED,65:F472B6,100:020617&section=footer&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:00D9FF,25:7C3AED,55:F472B6,80:4C1D95,100:020617&section=footer&animation=fadeIn"/>
 
 </div>
